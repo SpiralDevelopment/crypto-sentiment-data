@@ -7,27 +7,31 @@ Most of these data can be collected using the scripts in this project.
 
 ## Types of Sentiment Data
 
-### 1. Rank
+#### 1. Rank
 * Coinmarketcap rankings of coins
 
-### 2. Developer Data
+#### 2. Developer Data
 * Data from the Github account of the projects - forks, stars, subscribers, etc
 
-### 3. Public Interest
+#### 3. Public Interest
 * Alexa rank, Google search index, Bing matches
 
-### 4. Community Size
+#### 4. Community Size
 * Social community size - facebook likes, twitter followers, reddit subscribers, etc
 
-### 5. News
+#### 5. News
 * News about the blockchain and blockchain projects
 
-### 6. Public Discussions
+#### 6. Public Discussions
 * Twitter tweets, Telegram chat room discussions, Trollbox, etc
 
-### 7. Trading Positions of the Traders
+#### 7. Trading Positions of the Traders
 * Trading ideas of the traders - Tradingview ideas
 
 
 ## Contributions
 This project is an open project so contributions and feature requests are always welcome! 
+
+
+## License
+[MIT Licence](https://github.com/SpiralDevelopment/crypto-sentiment-data/blob/master/LICENSE)
