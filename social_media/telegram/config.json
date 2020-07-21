@@ -1,0 +1,7 @@
+{
+    "SESSION_ID": "any_session_name",
+    "API_ID": "YOUR_APP_ID",
+    "API_HASH": "YOUR_API_HASG",
+    "PHONE": "YOUR_PHONE_NUMER",
+    "TWO_STEP_AUTH_PWD": "YOUR_TWO_STEP_AUTH_PWD"
+}
