@@ -1,7 +1,9 @@
 # Crypto Sentiment Data Aggregators
 > A collection of scripts to collect crypto market sentiment data
 
-Here are the types of sentiment data that you can collect for your sentiment analysis project. Most of these data can be collected using the scripts in this project.
+Here are the types of sentiment data that you can collect for your sentiment analysis project.
+
+Most of these data can be collected using the scripts in this project.
 
 ## Types of Sentiment Data
 
@@ -14,14 +16,18 @@ Here are the types of sentiment data that you can collect for your sentiment ana
 ### 3. Public Interest
 * Alexa rank, Google search index, Bing matches
 
-### 4. Community data
+### 4. Community Size
 * Social community size - facebook likes, twitter followers, reddit subscribers, etc
 
 ### 5. News
 * News about the blockchain and blockchain projects
 
-### 6. Public discussions
+### 6. Public Discussions
 * Twitter tweets, Telegram chat room discussions, Trollbox, etc
 
-### 7. Trading positions of traders
+### 7. Trading Positions of the Traders
 * Trading ideas of the traders - Tradingview ideas
+
+
+## Contributions
+This project is an open project so contributions and feature requests are always welcome! 
