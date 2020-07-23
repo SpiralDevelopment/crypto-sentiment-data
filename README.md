@@ -32,6 +32,16 @@ Most of these data can be collected using the scripts in this project.
 ## Contributions
 This project is an open project so contributions and feature requests are always welcome! 
 
+## Support
+
+If you like my work, feel free to support it:
+
+* **BTC:** 1PUGs6mxcW2W3SJi95aG8GvRQRJsoFHWWQ
+
+* **ETH:** 0x66615e09f7f46429e7620ffbf78479879bbab41d
+
+* **LTC:** LRxYMgEXMumwxYdimZo9EJ5CfBcipD5c3n
+
 
 ## License
 [MIT Licence](https://github.com/SpiralDevelopment/crypto-sentiment-data/blob/master/LICENSE)
