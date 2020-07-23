@@ -34,7 +34,7 @@ This project is an open project so contributions and feature requests are always
 
 ## Support
 
-If you like my work, feel free to support it:
+Your Support and Donations are welcomed and appreciated!
 
 * **BTC:** 1PUGs6mxcW2W3SJi95aG8GvRQRJsoFHWWQ
 
